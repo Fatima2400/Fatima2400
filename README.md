@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatima Deshmukh</h1>
-<h3 align="center">A passionate frontend developer skilled in MERN stack. I focus on writing clean, elegant and efficient code.</h3>
+<h3 align="center">A passionate full-stack web developer skilled in MERN stack. I focus on writing clean, elegant and efficient code.</h3>
 
 - 📫 How to reach me **fatimadeshmukh46@gmail.com**
 
