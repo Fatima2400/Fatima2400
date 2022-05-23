@@ -32,7 +32,7 @@
 <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
 </td>
 </tr>
-<tr valign="top">
+<!-- <tr valign="top">
 <td width="25%" align="center">
 <span>NodeJS</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
@@ -49,7 +49,7 @@
 <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
 </td>
-</tr>
+</tr> -->
 <tr valign="top">
 <td width="25%" align="center">
 <span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br>
